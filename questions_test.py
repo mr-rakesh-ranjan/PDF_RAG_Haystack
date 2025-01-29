@@ -55,3 +55,26 @@ predicted_answers = [
     "The role of the Centre for Digital Transformation at IIMA includes managing a digitally-enabled centre for digital transformation. It operates with the aim of driving activities aligned with the centre's objectives, which likely involve enhancing the use of digital technologies in management practices, facilitating research, and possibly providing educational programs related to digital transformation. The specifics of its functions may include collaborating with industry partners, conducting research, designing and implementing innovative digital strategies, and promoting awareness and training in digital transformation across various sectors.",
     "The implementation of SAP (Systems, Applications, and Products in Data Processing) at IIMA has significantly transformed various operational aspects of the institute, particularly in the Human Resources (HR) functions. Here are the key contributions of SAP to IIMA's operations:\n\n1. **Streamlined HR Processes**: SAP has digitized many HR activities, allowing for more efficient management of employee data and reducing paperwork. Processes such as leave management, personal information updates, and payment processing have become more automated and accessible.\n\n2. **Employee Self-Service (ESS) Portal**: Employees now have direct access to update their personal information, apply for leaves, check their leave balances, and review their salary slips through the ESS portal. This self-service capability empowers employees, fosters transparency, and reduces the administrative burden on HR staff.\n\n3. **Manager Self-Service (MSS)**: Managers have access to tools that allow them to approve leave requests and manage their team's HR-related needs more effectively, enhancing decision-making capabilities.\n\n4. **Performance Management**: SAP facilitates a structured performance appraisal system where employee evaluations are documented and tracked systematically. The annual performance evaluation process, including self-appraisals and manager reviews, is now more organized and less time-consuming.\n\n5. **Data Analytics and Reporting**: SAP's robust data analytics tools assist in generating reports related to workforce metrics, enabling better decision-making based on employee performance, attendance trends, and resource allocation.\n\n6. **Integration Across Departments**: With SAP, different departments can share relevant data seamlessly, which improves coordination and communication. This integration helps in aligning departmental goals with overall institutional objectives.\n\n7. **Real-time Information Access**: The digital nature of SAP ensures that both employees and management can retrieve real-time data regarding HR metrics, which enhances responsiveness to changing operational needs.\n\n8. **Reduced Processing Time**: The automation of various HR processes means that tasks like salary calculations, leave approvals, and performance reviews can be completed in shorter timeframes, leading to greater overall productivity.\n\n9. **Improved Compliance and Record Keeping**: The electronic records maintained in SAP enhance compliance with institutional policies and government regulations. The ability to track changes and maintain logs also aids in audits and reviews.\n\nOverall, the deployment of SAP at IIMA has contributed substantially to the efficiency, transparency, and effectiveness of HR operations and, by extension, has positively impacted other areas of the institution's functioning.",
 ]
+
+# List of retrieved contexts
+retrieved_contexts = [
+    "The objective of this Manual is to compile the HR policies and procedures followed in IIMA and to present general rules and regulations.",
+    "Recruitment involves steps like filling MRF, advertisement, shortlisting, forming an interview panel, conducting interviews, and final selection after medical clearance.",
+    "The Board includes the Chairperson, nominees from Central/State governments, eminent persons, and co-opted members.",
+    "CAO handles administration, finance, estate maintenance, and acts as Secretary to the Board.",
+    "Misconduct covers lateness, misuse of identity cards, violating Institute rules, and ethical breaches.",
+    "Leave types: Casual, Earned, Half Pay, Commuted, Extraordinary, Maternity (26 weeks), Paternity, and Adoption Leave.",
+    "Promotion from Group D to C focuses on eligibility, service performance, and policy adherence.",
+    "Parents' insurance policies include Mediclaim and additional Top-Up Mediclaim.",
+    "Appraisals use an online system with guidelines for feedback and performance review.",
+    "Major penalties: pay scale reduction, dismissal, termination, and withholding increments/promotions.",
+    "Faculty Development aims to improve teaching, promote research, and enhance pedagogy.",
+    "Grievance policy involves filing, investigation, resolution, and confidentiality.",
+    "Salary deductions: lateness, absence fines, and statutory contributions.",
+    "Centre for Digital Transformation manages digital initiatives and supports IT-enabled research.",
+    "SAP implementation automated tasks, improved efficiency, and integrated enterprise systems."
+]
+
+
+
+
